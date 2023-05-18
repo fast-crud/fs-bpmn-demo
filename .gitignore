@@ -9,3 +9,4 @@ yarn.lock
 /.idea/
 yarn-error.log
 vite-profile.cpuprofile
+pnpm-lock.yaml
